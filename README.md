@@ -1,19 +1,15 @@
 
 ### Opa, sou a Gabi =D 👋
 
-<a href="http://linkedin.com/in/brunobertolini" target="_blank">
-  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="21px"  alt="Bruno Bertolini | LinkedIn" align="left" />
+<a href="http://linkedin.com/in/gabrielle-cristine-de-lima-pereira" target="_blank">
+  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="21px"  alt=" LinkedIn" align="left" />
 </a>
-<a href="http://medium.com/@brunobertolini" target="_blank">
-  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/medium.svg" width="21px"  alt="Bruno Bertolini | Medium" align="left" />
-</a>
-
-<a href="http://youtube.com/codarme" target="_blank">
-  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/youtube.svg" width="21px"  alt="Youtube da Codar.me" align="left" />
+<a href="http://medium.com/@gabrielle.clima23" target="_blank">
+  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/medium.svg" width="21px"  alt="  Medium" align="left" />
 </a>
 
-<a href="http://twitch.tv/codarme" target="_blank">
-  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/twitch.svg" width="21px"  alt="Twitch da Codar.me" align="left" />
+<a href="https://www.youtube.com/channel/UC_2dO1sjyjj1GIsin1QZahA" target="_blank">
+  <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/youtube.svg" width="21px"  alt="Youtube do Code Berseker" align="left" />
 </a>
 
 <br />
