@@ -4,6 +4,9 @@
 <a href="http://linkedin.com/in/gabrielle-cristine-de-lima-pereira" target="_blank">
   <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="21px"  alt=" LinkedIn" align="left" />
 </a>
+<a href="https://dev.to/gabrielle123" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/13521919?s=200&v=4" width="21px"  alt="Dev.to" align="left" />
+</a>
 <a href="http://medium.com/@gabrielle.clima23" target="_blank">
   <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/medium.svg" width="21px"  alt="  Medium" align="left" />
 </a>
